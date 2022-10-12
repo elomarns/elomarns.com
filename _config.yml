@@ -1,11 +1,11 @@
-title: Elomar Nascimento dos Santos
-email: elomarns@elomarns.com
+title: "Elomar Nascimento dos Santos"
+email: "elomarns@elomarns.com"
 description: >-
   I'm Elomar Nascimento dos Santos, and this is my personal website.
 baseurl: "/"
 url: "https://elomarns.com"
-twitter_username: elomarns
-github_username:  elomarns
+twitter_username: "elomarns"
+github_username:  "elomarns"
 
 # Build settings.
 theme: "minimal-mistakes-jekyll"
