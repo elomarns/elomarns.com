@@ -8,6 +8,46 @@ twitter_username: elomarns
 github_username:  elomarns
 
 # Build settings.
-theme: minima
+theme: "minimal-mistakes-jekyll"
+
 plugins:
   - jekyll-feed
+
+# Site Author.
+author:
+  name: "Elomar Nascimento dos Santos"
+  avatar: "/assets/img/elomarns.jpg"
+  bio: "I'm a software developer who's trying to create some cool stuff."
+  location: "Rio de Janeiro, Brazil"
+  email: "elomarns@elomarns.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:elomarns@elomarns.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.twitter.com/elomarns"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://www.github.com/elomarns"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/elomarns/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/elomarns/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.twitter.com/elomarns"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://www.github.com/elomarns"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/elomarns/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/elomarns/"
