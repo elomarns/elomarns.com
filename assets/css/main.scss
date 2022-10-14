@@ -1,0 +1,28 @@
+---
+search: false
+---
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/*
+  My custom styles.
+*/
+figure {
+  justify-content: center;
+  margin: 2em 0 1em;
+}
+
+figure figcaption {
+  width: 100%;
+  text-align: center;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-50 {
+  width: 50%;
+}
