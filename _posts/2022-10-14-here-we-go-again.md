@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Here we go again!"
-permalink: "here-we-go-again"
+permalink: "here-we-go-again/"
 ---
 I'm not a man of many talents, but if there's one thing I'm doing consistently over the last 15 years is starting a new blog. I'm also pretty consistent in completely ignoring it just a few months after its first post, but that's not the focus here. Here I'm trying to convince you that this blog will stick.
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about
+permalink: /about/
 ---
 It's always hard to write about yourself. You're the world's biggest specialist in the subject, but suddenly words fall short. You find yourself in trouble to even start it. So, to make my life easier, I'm splitting this into several topics. If something is important to define who I am, it has a section. This approach will make it easier to expand and improve the page in the future. Since I'm a moving subject, it makes sense to craft this page to be as well.
 
