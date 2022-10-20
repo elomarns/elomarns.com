@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "How to do a Hiring Process that Doesn't Suck"
-permalink: "how-to-do-a-hiring-process-that-doesnt-suck"
+permalink: "how-to-do-a-hiring-process-that-doesnt-suck/"
 ---
 I've been working as a software developer since 2008. That's long enough to have been part of dozens of hiring processes. I know how hard they can be. But because I've never hired anyone in my life, I can't say for sure that I know how to do a great hiring process. That doesn't mean I can't help you to avoid at least some of the most common mistakes.
 
